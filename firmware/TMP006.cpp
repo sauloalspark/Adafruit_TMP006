@@ -1,6 +1,6 @@
 /*
  * Spark Core TMP006 Temperature Sensor Library
- * Modified by Geert Wille - Appstrakt.
+ * Modified by Geert Wille - Appstrakt
  */
 
 /***************************************************

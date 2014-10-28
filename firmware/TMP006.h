@@ -1,9 +1,8 @@
 /*
  * Spark Core TMP006 Temperature Sensor Library
- * Modified by Geert Wille - Appstrakt.
+ * Modified by Geert Wille - Appstrakt
  */
 
-//Original Code license:
 /***************************************************
   This is a library for the TMP006 Temp Sensor
 
