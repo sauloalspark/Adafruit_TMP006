@@ -6,7 +6,7 @@ About
 -----
 This project is based on https://github.com/adafruit/Adafruit_TMP006. I just made it compatible with the Spark Core
 
-Adafruit
+Adafruit Note
 -----
 This is a library for the Adafruit TMP006 Infrared Thermopile Sensor
 
@@ -26,7 +26,3 @@ products from Adafruit!
 
 Written by Limor Fried/Ladyada for Adafruit Industries.
 BSD license, all text above must be included in any redistribution
-
-To download. click the DOWNLOADS button in the top right corner, rename the uncompressed folder Adafruit_TMP006. Check that the Adafruit_TMP006 folder contains Adafruit_TMP006.cpp and Adafruit_TMP006.h
-
-Place the Adafruit_TMP006 library folder your <arduinosketchfolder>/libraries/ folder. You may need to create the libraries subfolder if its your first library. Restart the IDE.
