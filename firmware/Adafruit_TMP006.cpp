@@ -19,7 +19,7 @@
   BSD license, all text above must be included in any redistribution
  ****************************************************/
 
-#include "TMP006.h"
+#include "Adafruit_TMP006.h"
 #include "math.h"
 
 TMP006::TMP006(uint8_t i2caddr) {
