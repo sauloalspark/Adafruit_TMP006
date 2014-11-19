@@ -1,6 +1,6 @@
 {
-    "name": "TMP006",
-    "author": "Geert Wille <geert@appstrakt.com>",
+    "name": "Adafruit_TMP006",
+    "author": "Geert Wille <geert@appstrakt.com> & Saulo Aflitos",
     "license": "GNU",
     "version": "0.0.1",
     "description": "A library for using the TMP006 in your project"
