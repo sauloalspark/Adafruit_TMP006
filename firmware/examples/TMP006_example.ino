@@ -1,4 +1,4 @@
-#include "TMP006/TMP006.h"
+#include "Adafruit_TMP006/Adafruit_TMP006.h"
 
 
 uint8_t sensor1 = 0x40; // I2C address of TMP006, can be 0x40-0x47
